@@ -10,7 +10,7 @@
 
 ## Installation
 
-See https://github.com/my2ndhead/thingsee/blob/master/README.md
+See https://splunkbase.splunk.com/app/2854/
 
 ## License
 
