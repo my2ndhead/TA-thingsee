@@ -2,7 +2,7 @@
 
 - **Authors**:          Mika Borner <mika.borner@gmail.com>
 - **Description**:      Technology Add-On for Thingsee
-- **Version**:          1.1
+- **Version**:          1.2
 
 ## Release Notes
 - **v1.0.0**    /       2015-08-24
@@ -11,11 +11,18 @@
 - **v1.1.0**   /	2015-08-27
         - Second Release
 
+- **v1.2.0**   /        2015-08-29
+
+
 
 ## Changelog
 
 - **v1.1.0**
 	- More eventtypes to handle sensor data
+
+- **v1.2.0**
+        - Optimized field extractions
+	- Added data model
 
 ## Installation
 
