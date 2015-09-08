@@ -2,7 +2,7 @@
 
 - **Authors**:          Mika Borner <mika.borner@gmail.com>
 - **Description**:      Technology Add-On for Thingsee
-- **Version**:          1.2
+- **Version**:          1.3
 
 ## Release Notes
 - **v1.0.0**    /       2015-08-24
@@ -23,6 +23,13 @@
 - **v1.2.0**
         - Optimized field extractions
 	- Added data model
+
+- **v1.3.0**
+	- Added thinsee:mqtt sourcetype
+	- Added field extractions
+	- Added multi-device support
+	- Updated datamodel for multi-device suppport
+
 
 ## Installation
 

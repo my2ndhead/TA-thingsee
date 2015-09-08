@@ -206,6 +206,18 @@
                     "fieldSearch": ""
                 },
                 {
+                    "fieldName": "dvc_id",
+                    "owner": "thingsee",
+                    "type": "string",
+                    "required": false,
+                    "multivalue": false,
+                    "hidden": false,
+                    "editable": true,
+                    "displayName": "dvc_id",
+                    "comment": "",
+                    "fieldSearch": ""
+                },
+                {
                     "fieldName": "_time",
                     "owner": "BaseEvent",
                     "type": "timestamp",
@@ -457,6 +469,18 @@
                     "hidden": true,
                     "editable": true,
                     "displayName": "ambient_light",
+                    "comment": "",
+                    "fieldSearch": ""
+                },
+                {
+                    "fieldName": "dvc_id",
+                    "owner": "thingsee",
+                    "type": "string",
+                    "required": false,
+                    "multivalue": false,
+                    "hidden": false,
+                    "editable": true,
+                    "displayName": "dvc_id",
                     "comment": "",
                     "fieldSearch": ""
                 },
@@ -716,6 +740,18 @@
                     "fieldSearch": ""
                 },
                 {
+                    "fieldName": "dvc_id",
+                    "owner": "thingsee",
+                    "type": "string",
+                    "required": false,
+                    "multivalue": false,
+                    "hidden": false,
+                    "editable": true,
+                    "displayName": "dvc_id",
+                    "comment": "",
+                    "fieldSearch": ""
+                },
+                {
                     "fieldName": "_time",
                     "owner": "BaseEvent",
                     "type": "timestamp",
@@ -967,6 +1003,18 @@
                     "hidden": false,
                     "editable": true,
                     "displayName": "ambient_light",
+                    "comment": "",
+                    "fieldSearch": ""
+                },
+                {
+                    "fieldName": "dvc_id",
+                    "owner": "thingsee",
+                    "type": "string",
+                    "required": false,
+                    "multivalue": false,
+                    "hidden": false,
+                    "editable": true,
+                    "displayName": "dvc_id",
                     "comment": "",
                     "fieldSearch": ""
                 },
@@ -1226,6 +1274,18 @@
                     "fieldSearch": ""
                 },
                 {
+                    "fieldName": "dvc_id",
+                    "owner": "thingsee",
+                    "type": "string",
+                    "required": false,
+                    "multivalue": false,
+                    "hidden": false,
+                    "editable": true,
+                    "displayName": "dvc_id",
+                    "comment": "",
+                    "fieldSearch": ""
+                },
+                {
                     "fieldName": "_time",
                     "owner": "BaseEvent",
                     "type": "timestamp",
@@ -1477,6 +1537,18 @@
                     "hidden": true,
                     "editable": true,
                     "displayName": "ambient_light",
+                    "comment": "",
+                    "fieldSearch": ""
+                },
+                {
+                    "fieldName": "dvc_id",
+                    "owner": "thingsee",
+                    "type": "string",
+                    "required": false,
+                    "multivalue": false,
+                    "hidden": false,
+                    "editable": true,
+                    "displayName": "dvc_id",
                     "comment": "",
                     "fieldSearch": ""
                 },
