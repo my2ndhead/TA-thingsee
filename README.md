@@ -6,7 +6,7 @@
 
 ## Release Notes
 - **v1.0.0**    /       2015-08-24
-- 	- First Release   
+	- First Release   
 
 - **v1.1.0**   /	2015-08-27
 	- Second Release
