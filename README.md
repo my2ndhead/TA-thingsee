@@ -6,10 +6,10 @@
 
 ## Release Notes
 - **v1.0.0**    /       2015-08-24
-        - First Release   
+- 	- First Release   
 
 - **v1.1.0**   /	2015-08-27
-        - Second Release
+	- Second Release
 
 - **v1.2.0**   /        2015-08-29
 	- Third Release
@@ -27,7 +27,7 @@
 	- Added data model
 
 - **v1.3.0**
-	- Added thinsee:mqtt sourcetype
+	- Added thingsee:mqtt sourcetype
 	- Added field extractions
 	- Added multi-device support
 	- Updated datamodel for multi-device suppport
